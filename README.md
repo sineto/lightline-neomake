@@ -22,7 +22,7 @@ Plug 'sinetoami/lightline-neomake'
 let g:lightline.component_expand = {
   \ 'neomake_infos': 'lightline#neomake#infos',
   \ 'neomake_warnings': 'lightline#neomake#warnings',
-  \ 'neomake_errors': 'lightline#neomke#errors',
+  \ 'neomake_errors': 'lightline#neomake#errors',
   \ 'neomake_ok': 'lightline#neomake#ok',
 \}
 ```
